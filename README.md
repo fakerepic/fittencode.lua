@@ -70,6 +70,10 @@ The token will be saved in the `token_path` file.
 | `<C-;>`         | `require('fittencode.core').accept_preview()`  | Accept preview and insert into buffer |
 | `<C-M>`         | `require('fittencode.core').clear()`           | Dismiss suggestion and clear preview  |
 
+# Previews
+
+![](https://raw.githubusercontent.com/fakerepic/fittencode.lua/gif/preview.gif)
+
 ## Reference
 
 - [fittencode.vim](https://github.com/FittenTech/fittencode.vim.git) - The main reference for api usage
